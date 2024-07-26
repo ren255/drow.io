@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.7.5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="611" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="588" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -15,13 +15,13 @@
         <mxCell id="aLeRlVjYkgvaT8wrGMZh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aLeRlVjYkgvaT8wrGMZh-9" target="aLeRlVjYkgvaT8wrGMZh-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLeRlVjYkgvaT8wrGMZh-9" value="距離リストi番目だけ進む" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-9" value="距離リスト&lt;font color=&quot;#3399ff&quot;&gt;i&lt;/font&gt;番目だけ進む" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aLeRlVjYkgvaT8wrGMZh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aLeRlVjYkgvaT8wrGMZh-14" target="aLeRlVjYkgvaT8wrGMZh-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLeRlVjYkgvaT8wrGMZh-14" value="リストの回数&lt;div&gt;繰り返す。&lt;br&gt;indexはi&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-14" value="リストの回数&lt;div&gt;繰り返す。&lt;br&gt;indexは&lt;font color=&quot;#3399ff&quot;&gt;i&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="180" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aLeRlVjYkgvaT8wrGMZh-15" value="距離&lt;div&gt;リスト&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -30,14 +30,49 @@
         <mxCell id="aLeRlVjYkgvaT8wrGMZh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aLeRlVjYkgvaT8wrGMZh-19" target="aLeRlVjYkgvaT8wrGMZh-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aLeRlVjYkgvaT8wrGMZh-19" value="曲がる向きリストi番目の方向に90度曲がる" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-19" value="曲がる向きリスト&lt;font color=&quot;#3399ff&quot;&gt;i&lt;/font&gt;番目の方向に90度曲がる" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aLeRlVjYkgvaT8wrGMZh-16" value="曲がる向き&lt;div&gt;リスト&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="541" as="sourcePoint" />
+            <mxPoint x="160" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-57" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="580" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-58" value="line trace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="100" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="509.44" y="140" as="sourcePoint" />
+            <mxPoint x="509.44" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aLeRlVjYkgvaT8wrGMZh-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-61" value="&lt;font color=&quot;#33ff33&quot;&gt;n&lt;/font&gt;秒まで繰り返す" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-62" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-64" value="曲がる向き&lt;div&gt;リスト&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aLeRlVjYkgvaT8wrGMZh-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-18" value="end" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.loop_limit;whiteSpace=wrap;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="480" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-73" value="&lt;b&gt;&lt;font color=&quot;#33ff33&quot;&gt;方向&lt;/font&gt;&lt;/b&gt;,&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#33ff33&quot;&gt;power&lt;/font&gt;&lt;/b&gt;,&lt;b&gt;&lt;font color=&quot;#33ff33&quot;&gt;Steering&lt;/font&gt;&lt;/b&gt;&lt;div&gt;に従って&lt;span style=&quot;background-color: initial;&quot;&gt;曲がる&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aLeRlVjYkgvaT8wrGMZh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aLeRlVjYkgvaT8wrGMZh-73" target="aLeRlVjYkgvaT8wrGMZh-62">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
